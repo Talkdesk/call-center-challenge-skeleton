@@ -21,7 +21,7 @@ and create a local branch for development.
 
     git checkout -b <branch-name>
 
-Please follow the convention isep-challenge-group-&lt;*group-number*&gt; when naming your branch.
+Please follow the convention call-center-challenge-group-&lt;*group-number*&gt; when naming your branch.
 
 ## Create a Twilio Account
 You'll use [Twilio](https://www.twilio.com/) as communication provider, so you need to setup an account in order
